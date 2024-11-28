@@ -1,1 +1,1 @@
-printf("I Love Digilab (Purple)");
+printf("I Love Digilab");
